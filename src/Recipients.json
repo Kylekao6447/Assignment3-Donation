@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Luang Ta Noi Foundation",
+    "picture": "images/1.JPG",
+    "tel": "096-646-4992",
+    "address": "Nakhon Pathom",
+    "goods": "Clothes"
+  },
+  {
+    "id": 1,
+    "name": "Thammarak Foundation",
+    "picture": "images/2.JPG",
+    "tel": "062-751-8800",
+    "address": "Lopburi Province",
+    "goods": "Clothes"
+  },
+  {
+    "id": 2,
+    "name": "Mirror Foundation",
+    "picture": "images/3.JPG",
+    "tel": "061-909-1840",
+    "address": "Laksi, Bangkok",
+    "goods": "Clothes"
+  },
+  {
+    "id": 3,
+    "name": "Fueng Fah House",
+    "picture": "images/4.JPG",
+    "tel": "02-583-6815",
+    "address": "Pakkred,Nonthaburi",
+    "goods": "Clothes"
+  },
+  {
+    "id": 4,
+    "name": "Baan Nokkamin Foundation",
+    "picture": "images/5.JPG",
+    "tel": "02-375-6497",
+    "address": "Khlong Kum,Bangkok",
+    "goods": "Books"
+  },
+  {
+    "id": 5,
+    "name": "Stang Mongkolsuk Library",
+    "picture": "images/6.JPG",
+    "tel": "02-201-5724",
+    "address": "Phaya Thai,Bangkok",
+    "goods": "Books"
+  },
+  {
+    "id": 6,
+    "name": "Pan Kan Restaurant",
+    "picture": "images/7.JPG",
+    "tel": "02-301-1096",
+    "address": "Srinakarin,Bangkok",
+    "goods": "Books"
+  },
+  {
+    "id": 7,
+    "name": "Mirror Foundation",
+    "picture": "images/8.JPG",
+    "tel": "02-973-2237",
+    "address": "Vibhavadi,Bangkok",
+    "goods": "Books"
+  },
+  {
+    "id": 8,
+    "name": "Aunt Joo",
+    "picture": "images/9.JPG",
+    "tel": "086-7751151",
+    "address": "Pathum Thani Province",
+    "goods": "Dog feeds"
+  },
+  {
+    "id": 9,
+    "name": "Manee dog",
+    "picture": "images/10.JPG",
+    "tel": "085-3569225",
+    "address": "Wat Prayoon",
+    "goods": "Dog feeds"
+  },
+  {
+    "id": 10,
+    "name": "Auntie Dog Home",
+    "picture": "images/11.JPG",
+    "tel": "084-6653559",
+    "address": "Pathum Thani",
+    "goods": "Dog feeds"
+  },
+  {
+    "id": 11,
+    "name": "Fairy house of feral animals",
+    "picture": "images/12.JPG",
+    "tel": "089-0996000",
+    "address": "Muaklek, Saraburi",
+    "goods": "Dog feeds"
+  }
+]
